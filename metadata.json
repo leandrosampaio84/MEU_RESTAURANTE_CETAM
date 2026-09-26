@@ -1,0 +1,6 @@
+{
+  "name": "Meu Restaurante - Gerenciador de Pedidos & Laboratório Python",
+  "description": "Sistema completo de gerenciamento de restaurante com laboratório didático de Python em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
